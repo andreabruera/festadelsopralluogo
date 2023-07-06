@@ -15,7 +15,7 @@ jimmy -> 22.00
 
 `10 euri a testa - per cibo, birrette, etc` da mandare *prima* su **[paypal](https://www.paypal.me/Scafesi) / satispay / [revolut](https://revolut.me/clodpheasant)**
 
-`se ti va: bring your own specialità` torte salate, parmigiana della nonna,negroni della casa
+`se ti va: bring your own specialità` torte salate, parmigiana della nonna, negroni della casa
 
 `vieni?` **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)** 
 
