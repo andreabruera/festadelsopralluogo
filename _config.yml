@@ -1,1 +1,7 @@
 theme: minima
+title: Andrea Bruera
+logo: cover.jpg
+description: PhD Student in Computer Science <br> Queen Mary University of London <br>
+email: a.bruera@qmul.ac.uk
+show_downloads: false
+google_analytics:
