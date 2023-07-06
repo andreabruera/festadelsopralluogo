@@ -13,10 +13,10 @@ scafo dj -> 21.00
 jimmy -> 22.00
 {% endhighlight %}
 
-`10 euri a testa (per cibo, birrette, etc)` da mandare *prima* su paypal o satispay (dettagli nel form)
+`10 euri a testa (per cibo, birrette, etc)` da mandare *prima* su paypal/satispay
 
-`se ti va: bring your own specialità` (torte salate, parmigiana della nonna,negroni della casa)
+`se ti va: bring your own specialità` torte salate, parmigiana della nonna,negroni della casa, etc
 
-`vieni?` **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)**
+`vieni?` **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)** 
 
 ![amo noi](below.jpg)
