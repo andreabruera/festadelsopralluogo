@@ -1,4 +1,4 @@
-{% highlight python %} 
+{% highlight ruby %} 
 
 def festa_del_sopralluogo(people):
     giorgio_sarno = 19
