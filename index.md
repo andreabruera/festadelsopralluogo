@@ -1,1 +1,1 @@
-I am a **final year Ph.D. student in Computer Science** in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk), School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao). 
+{% highlight ruby %} def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=> prints 'Hi, Tom' to STDOUT. {% endhighlight %}
