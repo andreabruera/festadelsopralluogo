@@ -1,7 +1,7 @@
 ![amo noi](top.jpg)
 {% highlight ruby %} 16 luglio 2023
 
-'casa di scafo'
+@ 'casa di scafo' - altre info più avanti
 
 grigliate, concerti e dj in casa, amicxxxxxxx
 
