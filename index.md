@@ -12,8 +12,7 @@ scafo dj -> 21.00
 jimmy -> 22.00
 
 10 euri a testa, da mandare *prima* su paypal o satispay (dettagli nel form)
-
 {% endhighlight %}
-facci sapere se vieni a farti un bel sopralluogo con noi compilando questo [form](https://docs.google.com/forms/d/1sHfgqqBTJFk3RGdYyxnbvWXyC_tn05SWSc4D0BJ2wJw/prefill)
+se vieni a farti un bel sopralluogo, *faccelo sapere compilando questo* [form](https://docs.google.com/forms/d/1sHfgqqBTJFk3RGdYyxnbvWXyC_tn05SWSc4D0BJ2wJw/prefill)
 
 ![amo noi](below.jpg)
