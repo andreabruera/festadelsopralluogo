@@ -5,12 +5,12 @@ luogo: 'casa di scafo' - altre info TBA
 
 grigliate, concerti e dj in casa, amicxxxxxxx
 
-noemi_romano (dj) -> 17.00
-andrea_bruera (perreo live) -> 18.00
-giorgio_sarno (lacrime live) -> 19.00
-SØVN b2b (dj finti) -> 20.00
-scafo (dj) -> 21.00
-jimmy (dj) -> 22.00
+noemi_romano   (dj)           -> 17.00
+andrea_bruera  (perreo live)  -> 18.00
+giorgio_sarno  (lacrime live) -> 19.00
+SØVN b2b       (dj finti)     -> 20.00
+scafo          (dj)           -> 21.00
+jimmy          (dj)           -> 22.00
 {% endhighlight %}
 
 `10 euri a testa - per cibo, birrette, etc` da mandare *prima* su **[paypal](https://www.paypal.me/Scafesi) / satispay / [revolut](https://revolut.me/clodpheasant)**
