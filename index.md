@@ -1,5 +1,5 @@
 ![amo noi](top.jpg)
-{% highlight ruby %} 16 luglio 2023
+{% highlight ruby %}16 luglio 2023
 
 luogo: 'casa di scafo' - altre info TBA
 
