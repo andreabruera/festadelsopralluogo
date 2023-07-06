@@ -16,6 +16,6 @@ jimmy -> 22.00
 
 se hai voglia: 'bring your own specialità' (torte salate, parmigiana della nonna,negroni della casa)
 {% endhighlight %}
-`se vieni a farti un bel sopralluogo, **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)**
+    se vieni a farti un bel sopralluogo, **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)**
 
 ![amo noi](below.jpg)
