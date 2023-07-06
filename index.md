@@ -13,6 +13,6 @@ jimmy -> 22.00
 
 10 euri a testa (per cibo etc), da mandare *prima* su paypal o satispay (dettagli nel form)
 {% endhighlight %}
-se vieni a farti un bel sopralluogo, **faccelo sapere compilando questo [form](https://docs.google.com/forms/d/1sHfgqqBTJFk3RGdYyxnbvWXyC_tn05SWSc4D0BJ2wJw/prefill)**
+se vieni a farti un bel sopralluogo, **faccelo sapere compilando questo [form](https://forms.gle/JuHwHhs9XsiqurCD9)**
 
 ![amo noi](below.jpg)
