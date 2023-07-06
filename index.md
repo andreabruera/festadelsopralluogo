@@ -1,6 +1,5 @@
 ![amo noi](top.jpg)
-{% highlight ruby %} 
-16 luglio 2023
+{% highlight ruby %} 16 luglio 2023
 
 'casa di scafo'
 
