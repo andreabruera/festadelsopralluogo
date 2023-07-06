@@ -6,7 +6,7 @@ luogo: 'casa di scafo' - altre info TBA
 grigliate, concerti e dj in casa, amicxxxxxxx
 
 noemi_romano (dj) -> 17.00
-andrea_bruera (live) -> 18.00
+andrea_bruera (perreo live) -> 18.00
 giorgio_sarno (lacrime live) -> 19.00
 SØVN b2b (dj finti) -> 20.00
 scafo (dj) -> 21.00
