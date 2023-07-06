@@ -1,10 +1,10 @@
 ![amo noi](top.jpg)
 {% highlight ruby %} 
-16 luglio
+16 luglio 2023
 
 ore 17-23
 
-casa di scafo
+'casa di scafo'
 
 grigliate, concerti e dj in casa, amicxxxxxxx
 
