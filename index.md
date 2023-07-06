@@ -1,3 +1,4 @@
+![amo noi](top.jpg)
 {% highlight ruby %} 
 16 luglio
 
@@ -16,4 +17,4 @@ jimmy -> 22.00
 {% endhighlight %}
 fatti un bel sopralluogo, e facci sapere se vieni compilando questo [form](https://docs.google.com/forms/d/1sHfgqqBTJFk3RGdYyxnbvWXyC_tn05SWSc4D0BJ2wJw/prefill)
 
-![amo noi](brb.jpg)
+![amo noi](below.jpg)
