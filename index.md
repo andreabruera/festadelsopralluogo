@@ -8,8 +8,8 @@ grigliate, concerti e dj in casa, amicxxxxxxx
 noemi_romano    (dj)             -> 17.00
 andrea_bruera   (p€rr€o live)    -> 18.00
 giorgio_sarno   (lacrime live)   -> 19.00
-SØVN b2b        (dj finti)       -> 20.00
-scafo           (dj)             -> 21.00
+SØVN b2b scafo  (dj)             -> 20.00
+kiro            (dj)             -> 21.00
 alec_pace       (dj)             -> 22.00
 {% endhighlight %}
 
